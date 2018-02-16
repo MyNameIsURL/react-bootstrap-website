@@ -1,0 +1,21 @@
+.jumbotron {
+  margin-bottom: 4em;
+}
+.person-wrapper {
+  margin-bottom: 2em;
+}
+
+.profile-pic {
+  width: 50%;
+}
+
+.btn-primary {
+  background-image: none;
+  border: none;
+  border-radius: 0;
+  background-color: #2892D7;
+}
+
+h3 {
+  margin-bottom: 1em;
+}
